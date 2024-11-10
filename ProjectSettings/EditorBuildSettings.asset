@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/School laboratory - interior and props/School laboratory - interior
+      and props/scenes/lab_1.unity
+    guid: e99248b63b362824f992080dc1a6c6ce
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d0b967f0f0e1bb442876d6cfe9c93510,
+      type: 2}
+    com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: e1b3b92463558d341bd992687c5cd61f,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a34d9af149ecafc4e88af22e13fa8dfc,
+      type: 2}
